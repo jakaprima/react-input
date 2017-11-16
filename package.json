@@ -1,0 +1,31 @@
+{
+  "name": "react-input",
+  "version": "0.0.1",
+  "description": "small library to provide input",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakaprima/react-input.git"
+  },
+  "keywords": [
+    "input"
+  ],
+  "author": "jaka prima maulana <jaka@primasaja.com> (http://www.primasaja.com)",
+  "license": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/brentertz/scapegoat/blob/master/LICENSE-MIT"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/jakaprima/react-input/issues"
+  },
+  "homepage": "https://github.com/jakaprima/react-input#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
